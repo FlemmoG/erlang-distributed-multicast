@@ -1,0 +1,19 @@
+-Ist eine sortierte HBQ pflicht? (Eigentlich wollte ich beim Einfügen sortieren, allerdings habe ich jetzt eine Funktion, 
+die beim Updaten der Queues die Sortierung kaputt macht. Ist das schlimm?)
+    -ist ok
+
+-Wofür eine VT für die DQ?
+
+-Wenn alle Tests durchlaufen (ADT und System, kann man sich dann sicher sein, dass man die Funktionalen Anforderungen an einen
+Multicast erfüllt hat? Natürlich wurden und werden noch weitere Tests implementiert)
+
+-Gibt es bestimmte Anforderungen an das Logging?
+
+-Müssen wir für den Analysenteil Rekurrenzgleichungen aufstellen?
+    -Es geht darum, das ein bisschen im Blick zu habe 
+    -Korrektheit beweisen
+
+-Beispielanwendung?
+
+
+(nur senden ist wichtig für Kausalität)
